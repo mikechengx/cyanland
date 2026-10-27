@@ -1,0 +1,15 @@
+{
+  "name": "Cyanland",
+  "version": "5.0.0",
+  "repository": "https://github.com/mikechengx/cyanland",
+  "website": "https://mikechengx.github.io/cyanland/",
+  "languages": [
+    "zh",
+    "en"
+  ],
+  "htmlBytes": 284107,
+  "htmlSha256": "16d4fb497b604154c836a2022b765c1ed9aaffe9be49c1076a2c2b8bc2c699ad",
+  "storageMigration": "Same mikechengx.github.io origin and unchanged application storage keys.",
+  "originalRepository": "https://github.com/mikechengx/launch-jelly",
+  "originalCommit": "a1d887e53d6d6eec3e6ad991df5ca045e8478d53"
+}
