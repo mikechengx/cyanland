@@ -34,3 +34,10 @@ The original `https://mikechengx.github.io/launch-jelly/cyanland.html` redirects
 点击 中文 / EN 切换界面语言。手机可单指环绕、双指缩放、长按移位；设置抽屉与沙盘分区。潮汐为周期模拟、天气为手动情境，画面不是实景测绘或实时天气预报。
 
 独立网址与仓库均为 `cyanland`。旧网址会自动跳转；同一浏览器内的线上偏好继续可用。
+
+## License / 开源许可
+
+Original application code is released under the [MIT License](LICENSE).
+Third-party components, if included, retain their own copyright notices and licenses.
+
+原创应用代码采用 [MIT License](LICENSE)；第三方组件保留各自的版权声明与许可。
